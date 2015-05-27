@@ -1,0 +1,9 @@
+{
+  "name": "node-facetype.js",
+  "version": "0.1.0",
+  "description": "a simple command line typeface.js generator",
+  "author": "cs8425 <cs8425@gmail.com>",
+  "dependencies": {
+    "buffer-dataview": "*"
+  }
+}
